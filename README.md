@@ -1,0 +1,2 @@
+# SnipCode
+SnipCode is a tool from which you can save all your snips, code pieces and templates in one place using one command without going into any website or so! (We are working on the fact that you can only add snips yourself)
