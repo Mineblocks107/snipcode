@@ -1,5 +1,0 @@
-
-##########
- SnipCode 
-##########
-print("hello, world!")
